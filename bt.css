@@ -1,0 +1,10 @@
+     @font-face {
+        font-family:"MM Phetkon";
+        src: url("https://booktai.github.io/font/MMPhetkon/MMPhetkon.woff") format("woff"),
+             url("https://booktai.github.io/font/MMPhetkon/MMPhetkon.woff2") format("woff2"),
+             url("https://booktai.github.io/font/MMPhetkon/MMPhetkon.ttf") format("ttf");
+      }
+      html *
+{    
+  font-family:'MM Phetkon';
+}
